@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.10.0",
+    "interactjs": "^1.10.27",
+    "lodash": "^4.17.21",
+    "panolens": "^0.12.1",
+    "unplugin-fonts": "^1.3.1"
+  }
+}
